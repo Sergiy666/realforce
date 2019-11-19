@@ -1,0 +1,8 @@
+{
+  "db_host": "localhost",
+  "db_name": "realforce",
+  "db_user": "root",
+  "db_password": "",
+  "db_char": "utf8",
+  "site_address": "http://realforce.local"
+}
